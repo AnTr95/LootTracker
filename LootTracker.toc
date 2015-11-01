@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: LootTracker
+## Version: v1.0
+## Notes: Tracks BoE drops.
+## Author: Ant-Kazzak
+
+LootTracker.lua
